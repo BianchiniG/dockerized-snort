@@ -1,0 +1,1 @@
+Just a simple Dockerfile to build an image of Snort on Ubuntu (All dependencies included).
